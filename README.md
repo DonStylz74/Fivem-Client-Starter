@@ -1,12 +1,16 @@
-**FiveM Client Starter**
+<h1>*** FiveM Client Starter ***</h1>
+
 
 This powershell script that allows you to clear your client cache file sbefore starting your FiveM client
 
-**Features:**
-* Scans your local drive for your fivem data folder and confirms with user
-* allows for basic and deep clean of cache files. ( requires some file downloads when starting fivem )
-* start Fivem Without clearing cache files.
+<h2>** Features: **</h2>
+<ul>
+    <li>Scans your local drive for your fivem data folder, then confirms with user</li>
+    <li>Allows for basic and deep cleaning of cache files. ( requires some file downloads when starting fivem )</li>
+    <li>Start FiveM without clearing any cache files.****</li>
+</ul>
 
-**Preview:**
+
+<h2>** Preview: **</h2>
 
 ![image](https://github.com/user-attachments/assets/c97c661f-fea0-4ee1-be58-365b24d2cbb5)
